@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Abdullah Saeed
+# 👋 Hey, I'm Abdullah Sayeed
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;AI+%7C+ML+Enthusiast;JEE+98.214+Percentile;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=;AI+%7C+ML+Enthusiast;JEE+98.214+Percentile;Always+Learning&center=true&width=500&height=45">
 </p>
 
 ---
