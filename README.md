@@ -8,10 +8,9 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech CSE @ Presidency University (1st Year)
-🏆 JEE Mains & Advanced – 98.214 Percentile
+🎓 B.Tech CSE @ Presidency University 
 💡 Passionate about Artificial Intelligence & Machine Learning
-🚀 Goal: Become a Software Engineer / AI-ML Engineer
+🚀 Aspiring AI-ML Engineer
 
 ---
 
@@ -53,7 +52,7 @@
 
 ## 🤝 Connect
 
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/Abdullah-Sayeed1
 
 ---
 
