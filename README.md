@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Abdullah Sayeed
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Abdullah+Saeed;AI+%2F+ML+Engineer+in+Progress;Computer+Science+Student;Building+with+Purpose&center=true&width=500&height=45&color=ffffff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Abdullah+Sayeed;AI+%2F+ML+Engineer+in+Progress;Computer+Science+Student;Building+with+Purpose&center=true&width=500&height=45&color=ffffff&vCenter=true&size=22">
 </p>
 
 ---
